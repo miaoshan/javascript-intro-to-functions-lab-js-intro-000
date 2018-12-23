@@ -23,7 +23,7 @@ if(string.toLowerCase()===lowercase){
 else if(string.toUpperCase()===uppercase){
   return "YES INDEED!"
 }
-else if(string3="I love you, Grandma."){
+else if(string="I love you, Grandma."){
   return "I love you, too."
 }
 
