@@ -20,7 +20,7 @@ var uppercasecase="WORDS"
 if(lowercase.toLowerCase()===lowercase){
   return "I can't hear you!"
 }
- 
+
 else if(uppercase.toUpperCase()===uppercase){
   return "YES INDEED!"
 }
